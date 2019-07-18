@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1562856778 source:c:\users\administrador\desktop\utn\practicando\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562856438 c:\users\administrador\desktop\utn\practicando\linkedlist.h
+
+1562856778 source:c:\users\administrador\desktop\utn\practicando\entidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"entidad.h"
+
+1562856778 c:\users\administrador\desktop\utn\practicando\entidad.h
+
+1562857485 source:c:\users\administrador\desktop\utn\practicando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"entidad.h"
+	"imput.h"
+
+1562850201 source:c:\users\administrador\desktop\utn\practicando\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1561304468 c:\users\administrador\desktop\utn\practicando\imput.h
+
+1562850202 source:d:\practicando\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1561304470 d:\practicando\imput.h
+
+1562856780 source:d:\practicando\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562856440 d:\practicando\linkedlist.h
+
+1562857486 source:d:\practicando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"entidad.h"
+	"imput.h"
+
+1562858234 d:\practicando\entidad.h
+
